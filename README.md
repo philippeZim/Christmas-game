@@ -10,5 +10,5 @@ pip install pygame
 ```
 python3 main.py
 ```
-### Images:
+### Game:
 ![alt text](https://github.com/philippeZim/Christmas-game/blob/main/example.png)
